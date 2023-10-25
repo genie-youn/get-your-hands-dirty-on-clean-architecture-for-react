@@ -6,13 +6,13 @@ The code has been updated to the 2nd edition of the book.
 
 ## Get the print book
 
-[![Get Your Hands Dirty on Clean Architecture cover](img/cover-packt-450.png)](https://www.amazon.com/Your-Hands-Dirty-Clean-Architecture/dp/180512837X?keywords=get+your+hands+dirty+on+clean+architecture&amp;qid=1689324075&amp;sprefix=Get+Your+Hands+Dirty+on+Clean+,aps,424&amp;sr=8-2&_encoding=UTF8&tag=reflectorin0c-20&linkCode=ur2&linkId=c04a12e6dd6d399747b0cdce328650a5&camp=1789&creative=9325)
+[![Get Your Hands Dirty on Clean Architecture cover](https://github.com/thombergs/buckpal/blob/master/img/cover-packt-450.png)](https://www.amazon.com/Your-Hands-Dirty-Clean-Architecture/dp/180512837X?keywords=get+your+hands+dirty+on+clean+architecture&amp;qid=1689324075&amp;sprefix=Get+Your+Hands+Dirty+on+Clean+,aps,424&amp;sr=8-2&_encoding=UTF8&tag=reflectorin0c-20&linkCode=ur2&linkId=c04a12e6dd6d399747b0cdce328650a5&camp=1789&creative=9325)
 
 ## Get the e-book
 
 This is the self-published version, which is only available electronically.
 
-[![Get Your Hands Dirty on Clean Architecture cover](img/cover-430.png)](https://thombergs.gumroad.com/l/gyhdoca)
+[![Get Your Hands Dirty on Clean Architecture cover](https://github.com/thombergs/buckpal/blob/master/img/cover-430.png)](https://thombergs.gumroad.com/l/gyhdoca)
 
 ## Companion Articles
 
@@ -31,7 +31,7 @@ This is the self-published version, which is only available electronically.
 * Explore a hands-on approach of implementing a Hexagonal architecture with example code [on GitHub](https://github.com/thombergs/buckpal).
 * Develop your domain code independent of database or web concerns.
 
-![Hexagonal Architecture](img/hexagonal-architecture.png)
+![Hexagonal Architecture](https://github.com/thombergs/buckpal/blob/master/img/hexagonal-architecture.png)
 
 ### Get a Grip on Your Layers
 
@@ -42,7 +42,7 @@ This is the self-published version, which is only available electronically.
 * Learn the consequences of shortcuts and when to accept them.
 * ... and [more](#table-of-contents).
 
-![Dependencies](img/dependencies.png)
+![Dependencies](https://github.com/thombergs/buckpal/blob/master/img/dependencies.png)
 
 ### What Readers Say
 
